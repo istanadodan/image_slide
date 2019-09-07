@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="static/css/todo.css" type="text/css" rel="stylesheet">
+    </link>
+    <script src="static/js/vue.js" type="text/javascript"></script>
+    <script src="static/js/todos.js" type="text/javascript"></script>
+</head>
+
+<body onload="init();">
+
+    <div id="app">
+        <h1>체크리스트</h1>
+        <label v-for="label in options">
+            <input type="radio" v-model="current" v-bind:value="label.value">{{label.label}}
+        </label>
+        <table>
+            <thead v-pre>
+                <tr>
+                    <th class="id">ID</th>
+                    <th class="comment">comment</th>
+                    <th class="state">state</th>
+                    <th class="button">--</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in computedTodos" v-bind:key="item.id" v-bind:class="{done:item.state}">
+                    <th>{{item.id}}</th>
+                    <td>{{item.comment}}</td>
+                    <td class="state">
+                        <button v-on:click="doChangeState(item)">
+                            {{labels[item.state]}}
+                            <!-- {{item.state}} -->
+                        </button>
+                    </td>
+                    <td class="button">
+                        <button v-on:click.ctrl="doRemove(item)">delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>삭제시에는 컨트롤키와 같이 클릭해주세요</p>
+
+        <h2>새로운 작업추가</h2>
+        <form class="add-form" v-on:submit.prevent="doAdd">
+            코멘트:<input type="text" ref="comment">
+            <button type="submit">Add</button>
+        </form>
+    </div>
+
+</body>
+
+</html>

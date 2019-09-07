@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="static/js/vue.js"></script>
+    <script src="static/js/axios.js"></script>
+    <script src="static/js/controller.js"></script>
+    <title>Album Manager</title>
+</head>
+<body onload="init();">
+    <div id="app2" v-if="album.win">
+        <div>
+            <!-- <select v-model="album.name" v-on:change='post'> -->
+            <select v-model="result" @change='post'>
+                <option v-for="folder in album.name">
+                    {{folder}}
+                </option>
+            </select>
+        </div>
+        <div>
+            <!-- <img src="static/test1.jpg" width="300px"> -->
+            <img v-bind:src="path" width="300px">
+        </div>
+    </div>
+</body>
+</html>

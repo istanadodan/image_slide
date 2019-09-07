@@ -1,0 +1,85 @@
+[2019-09-07 15:52:45,069:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:52:45,070:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:52:45,365:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-07 15:52:45,365:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:52:45,366:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:52:53,402:service.requestHandler  82@_initialize] 옵션값 option=> 필드값 {'degree': 90}
+[2019-09-07 15:52:53,402:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:52:53,402:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:52:53,402:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f01' [POST]>
+[2019-09-07 15:52:53,402:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:52:53,402:service.requestHandler  56@_make_log] options:{'edit': 'option'}
+[2019-09-07 15:52:53,402:service.ImageEdit  52@doRotate] element {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '공원', 'place': '', 'quality': 50}
+[2019-09-07 15:52:53,435:service.ImageEdit  63@doRotate] degree 90 jpg
+[2019-09-07 15:52:53,806:service.ImageEdit  16@__init__] option {'degree': 90}
+[2019-09-07 15:52:53,807:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '공원', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}]
+[2019-09-07 15:53:16,168:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:53:16,168:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:53:16,169:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-07 15:53:16,169:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:53:16,170:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:53:55,920:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:53:55,936:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:53:55,936:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/update' [POST]>
+[2019-09-07 15:53:55,936:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:53:55,936:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:53:55,936:service.FileInfoService 131@update] 수정 {'HQ': False, 'KO': False, 'KO_plotting': [[3736, 1312, 384, 384], [2638, 955, 96, 96], [1892, 1155, 48, 48], [2769, 1633, 96, 96]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_160440.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:54:02,320:service.requestHandler  82@_initialize] 옵션값 option=> 필드값 {'degree': 90}
+[2019-09-07 15:54:02,320:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:54:02,320:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:54:02,320:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f01' [POST]>
+[2019-09-07 15:54:02,320:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:54:02,320:service.requestHandler  56@_make_log] options:{'edit': 'option'}
+[2019-09-07 15:54:02,320:service.ImageEdit  52@doRotate] element {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:54:02,320:service.ImageEdit  63@doRotate] degree 90 jpg
+[2019-09-07 15:54:02,893:service.ImageEdit  16@__init__] option {'degree': 90}
+[2019-09-07 15:54:02,893:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '공원', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}, {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548_rotate.jpg', 'memo': '', 'place': '', 'size': {'width': 2336, 'height': 4160}}]
+[2019-09-07 15:54:02,893:service.FileInfoService 150@append] 추가 {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548_rotate.jpg', 'memo': '', 'place': '', 'size': {'width': 2336, 'height': 4160}}
+[2019-09-07 15:54:21,276:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:54:21,276:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:54:21,276:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/update' [POST]>
+[2019-09-07 15:54:21,276:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:54:21,276:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:54:21,276:service.FileInfoService 131@update] 수정 {'HQ': True, 'KO': False, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:54:39,203:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:54:39,203:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:54:39,204:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/remove' [POST]>
+[2019-09-07 15:54:39,214:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:54:39,215:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:54:39,215:service.FileInfoService 170@remove] 삭제 {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548_rotate.jpg', 'memo': '', 'place': '', 'size': {'height': 4160, 'width': 2336}}
+[2019-09-07 15:54:54,649:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:54:54,650:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:54:54,650:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/update' [POST]>
+[2019-09-07 15:54:54,650:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:54:54,650:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:54:54,651:service.FileInfoService 131@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:55:04,471:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:55:04,471:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:55:04,471:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/update' [POST]>
+[2019-09-07 15:55:04,471:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:55:04,471:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:55:04,471:service.FileInfoService 131@update] 수정 {'HQ': False, 'KO': False, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:55:24,082:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:55:24,082:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:55:24,083:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/remove' [POST]>
+[2019-09-07 15:55:24,083:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:55:24,083:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:55:24,083:service.FileInfoService 170@remove] 삭제 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': ''}
+[2019-09-07 15:55:29,577:service.requestHandler  82@_initialize] 옵션값 option=> 필드값 {'degree': '270'}
+[2019-09-07 15:55:29,577:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:55:29,577:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:55:29,577:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f01' [POST]>
+[2019-09-07 15:55:29,577:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:55:29,577:service.requestHandler  56@_make_log] options:{'edit': 'option'}
+[2019-09-07 15:55:29,577:service.ImageEdit  52@doRotate] element {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '공원', 'place': '', 'quality': 50}
+[2019-09-07 15:55:29,577:service.ImageEdit  63@doRotate] degree 270 jpg
+[2019-09-07 15:55:29,926:service.ImageEdit  16@__init__] option {'degree': '270'}
+[2019-09-07 15:55:29,926:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '공원', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}, {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548_rotate.jpg', 'memo': '', 'place': '', 'size': {'width': 2336, 'height': 4160}}, {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '공원', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}]
+[2019-09-07 15:55:29,926:service.FileInfoService 150@append] 추가 {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '공원', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}
+[2019-09-07 15:55:29,926:service.FileInfoService 150@append] 추가 {'HQ': False, 'KO': True, 'KO_plotting': [[1680, 3209, 384, 384]], 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548_rotate.jpg', 'memo': '', 'place': '', 'size': {'width': 2336, 'height': 4160}}
+[2019-09-07 15:55:43,295:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-07 15:55:43,296:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,북이름:190112-우에노
+[2019-09-07 15:55:43,296:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album/remove' [POST]>
+[2019-09-07 15:55:43,296:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-07 15:55:43,297:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-07 15:55:43,297:service.FileInfoService 170@remove] 삭제 {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '공원', 'place': '', 'quality': 50}

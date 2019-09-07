@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+#app {
+    min-width: 400px;
+    margin: 0 auto;
+    background: #058;
+}
+
+div {
+    border:0px solid black;
+}
+#top {
+    height:25px;
+    text-align: right;
+    margin-right: 30px;
+}
+
+#left {
+    float:left;
+    min-width: 150px;
+    width:20%;
+}
+
+#message_box {
+    position: relative;
+    margin:50px 0 0 5px;
+    width:85%;
+    min-height:50px;
+    border:1px solid red;
+    color:red;
+}
+#message_box h5 {
+    position: absolute;
+    top:-45px;
+}
+
+#right {
+    float:right; 
+    width:80%;
+}
+.article_list {
+    display: flex;
+    border: 1px solid green;
+}
+.article {
+    list-style-type: none; 
+}
+li div {
+    display:inline-flex;
+    flex-flow: row
+}
+li div:nth-child(1) {
+    width:250px;
+}
+li div.example {
+    width:350px;
+}

@@ -1,0 +1,543 @@
+[2019-09-01 13:40:21,984:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:40:21,987:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:40:21,996:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 13:40:21,996:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:40:21,996:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 13:41:03,317:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:41:03,319:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:41:03,327:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 13:41:03,327:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:41:03,327:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 13:49:58,566:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:49:58,566:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:49:58,574:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 13:49:58,574:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:49:58,574:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 13:50:04,755:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:50:04,755:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190114-아두이노키트,앨범명:190114-아두이노키트
+[2019-09-01 13:50:04,843:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 13:50:04,844:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-09-01 13:50:04,844:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 13:51:02,946:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:51:02,946:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190114-아두이노키트,앨범명:190114-아두이노키트
+[2019-09-01 13:51:02,961:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 13:51:02,961:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-09-01 13:51:02,961:service.requestHandler- 60@_make_log] options:{'arg': 'option'}
+[2019-09-01 13:51:03,439:service.requestHandler-107@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190114-아두이노키트', 'filename': 'IMG_20190114_123508_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85, 'size': {'height': 2336, 'width': 4160}}]
+[2019-09-01 13:51:03,439:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190114-아두이노키트', 'filename': 'IMG_20190114_123508_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85, 'size': {'height': 2336, 'width': 4160}}]
+[2019-09-01 13:51:51,189:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:51:51,190:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190114-아두이노키트,앨범명:190114-아두이노키트
+[2019-09-01 13:51:51,208:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 13:51:51,208:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-09-01 13:51:51,208:service.requestHandler- 60@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 13:56:00,245:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:56:00,245:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:56:00,252:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 13:56:00,253:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:56:00,253:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 13:56:12,649:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:56:12,650:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:56:12,650:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 13:56:12,650:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:56:12,650:service.requestHandler- 60@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 13:56:12,953:service.FileInfoService-130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 13:56:12,954:service.requestHandler- 95@update] data updated: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}]
+[2019-09-01 13:56:12,955:updateFrom- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}]
+[2019-09-01 13:57:54,333:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:57:54,333:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:57:54,340:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 13:57:54,340:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:57:54,341:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 13:57:54,780:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 95}]
+[2019-09-01 13:59:07,620:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 13:59:07,620:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 13:59:07,620:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 13:59:07,621:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 13:59:07,621:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 13:59:07,920:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 95}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 14:02:39,008:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:02:39,008:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:02:39,016:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:02:39,016:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:02:39,017:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:02:39,360:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 14:04:11,880:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:04:11,881:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:04:11,881:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:04:11,881:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:04:11,882:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:04:12,199:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 14:04:52,301:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:04:52,301:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:04:52,302:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:04:52,302:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:04:52,302:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:04:52,700:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 14:09:28,121:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:09:28,122:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:09:28,129:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 14:09:28,130:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:09:28,130:requestHandler.py- 59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 14:20:42,325:requestHandler.py- 85@_initialize] option
+[2019-09-01 14:20:42,326:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:20:42,326:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:20:42,335:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:20:42,336:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:20:42,336:requestHandler.py- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:47:53,915:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:47:53,916:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:47:53,923:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 14:47:53,924:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:47:53,924:requestHandler.py- 59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 14:48:11,987:requestHandler.py- 85@_initialize] option
+[2019-09-01 14:48:11,988:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:48:11,988:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:48:11,988:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:48:11,989:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:48:11,989:requestHandler.py- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:49:27,028:requestHandler.py- 85@_initialize] option
+[2019-09-01 14:49:27,029:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:49:27,029:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:49:27,039:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:49:27,040:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:49:27,040:requestHandler.py- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:49:55,027:requestHandler.py- 85@_initialize] option
+[2019-09-01 14:49:55,028:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:49:55,028:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:49:55,037:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:49:55,037:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:49:55,038:requestHandler.py- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:49:55,038:auto_log.py- 16@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 14:49:55,038:auto_log.py- 16@writelog] [인수]quality
+[2019-09-01 14:49:55,385:requestHandler.py- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 14:58:11,094:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:58:11,094:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:58:11,102:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 14:58:11,102:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:58:11,102:requestHandler.py- 59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 14:58:22,178:requestHandler.py- 85@_initialize] option
+[2019-09-01 14:58:22,178:FileInfoService.py- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:58:22,179:FileInfoService.py- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:58:22,179:requestHandler.py- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:58:22,179:requestHandler.py- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:58:22,180:requestHandler.py- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:58:52,943:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:58:52,943:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:58:52,950:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:58:52,950:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:58:52,951:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:59:12,687:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:59:12,687:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:59:12,695:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:59:12,695:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:59:12,695:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:59:28,467:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 14:59:28,468:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 14:59:28,474:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 14:59:28,475:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 14:59:28,475:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 14:59:28,475:service.ImageEdit- 14@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 14:59:28,476:service.ImageEdit- 14@writelog] [인수]quality
+[2019-09-01 14:59:28,820:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:02:27,285:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 15:02:27,285:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:03:11,861:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 15:03:11,861:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:03:11,868:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 15:03:11,869:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:03:11,869:service.requestHandler- 59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 15:04:58,134:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 15:04:58,135:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:04:58,143:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 15:04:58,144:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:04:58,144:service.requestHandler- 59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 15:05:13,593:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 15:05:13,593:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:05:13,593:service.requestHandler- 57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:05:13,594:service.requestHandler- 58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:05:13,594:service.requestHandler- 59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:05:13,594:service.ImageEdit- 14@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:05:13,595:service.ImageEdit- 14@writelog] [인수]quality
+[2019-09-01 15:05:14,015:service.requestHandler- 14@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:10:04,193:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:10:04,193:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:10:04,201:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:10:04,201:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:10:04,201:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:10:04,201:service.ImageEdit  17@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:10:04,202:service.ImageEdit  17@writelog] [인수]quality
+[2019-09-01 15:10:04,583:service.requestHandler  17@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:13:45,899:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:13:45,899:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:13:45,907:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 15:13:45,907:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:13:45,908:service.requestHandler  59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 15:13:57,332:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:13:57,333:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:13:57,333:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:13:57,333:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:13:57,334:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:13:57,334:service.ImageEdit  17@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:13:57,334:service.ImageEdit  17@writelog] [인수]quality
+[2019-09-01 15:13:57,732:service.requestHandler  17@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:15:51,058:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:15:51,058:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:15:51,065:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:15:51,066:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:15:51,066:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:15:51,066:service.ImageEdit  17@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:15:51,067:service.ImageEdit  17@writelog] [인수]quality
+[2019-09-01 15:15:51,476:service.requestHandler  17@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:18:08,679:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:18:08,679:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:18:08,687:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:18:08,687:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:18:08,687:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:18:08,687:service.ImageEdit  18@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:18:08,688:service.ImageEdit  18@writelog] [인수]quality
+[2019-09-01 15:18:09,109:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 15:21:19,447:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 15:21:19,448:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 15:21:19,459:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 15:21:19,459:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 15:21:19,460:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 15:21:19,460:service.ImageEdit  18@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 15:21:19,460:service.ImageEdit  18@writelog] [인수]quality
+[2019-09-01 15:21:19,994:service.ImageEdit  16@__init__] option {'quality': 100}
+[2019-09-01 15:21:19,994:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 16:19:44,517:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:19:44,517:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:19:44,540:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 16:19:44,540:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:19:44,540:service.requestHandler  59@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 16:19:57,360:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:19:57,360:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:19:57,361:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 16:19:57,361:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:19:57,361:service.requestHandler  59@_make_log] options:{'arg': 'option'}
+[2019-09-01 16:19:57,361:service.ImageEdit  18@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:19:57,362:service.ImageEdit  18@writelog] [인수]quality
+[2019-09-01 16:19:57,362:service.ImageEdit  29@changeQuality] element {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:19:57,462:service.ImageEdit  39@changeQuality] quality 85 jpg
+[2019-09-01 16:19:57,761:service.ImageEdit  16@__init__] option {'quality': '85'}
+[2019-09-01 16:19:57,761:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 85}]
+[2019-09-01 16:24:30,119:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:24:30,119:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:24:30,127:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 16:24:30,132:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:24:30,133:service.requestHandler  59@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 16:24:30,133:service.faceRecognition  13@__init__] classifier D:\Temp\haarcascade_frontalface_default.xml
+[2019-09-01 16:24:30,140:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate_quality.jpg
+[2019-09-01 16:24:30,296:service.faceRecognition  40@_operate] OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1658: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2019-09-01 16:24:30,298:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}]
+[2019-09-01 16:24:30,298:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:27:48,316:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:27:48,317:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:27:48,317:service.requestHandler  57@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 16:27:48,317:service.requestHandler  58@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:27:48,318:service.requestHandler  59@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 16:27:48,318:service.faceRecognition  13@__init__] classifier D:\Temp\haarcascade_frontalface_default.xml
+[2019-09-01 16:27:48,318:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate_quality.jpg
+[2019-09-01 16:27:48,447:service.faceRecognition  40@_operate] OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1658: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2019-09-01 16:27:48,459:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}]
+[2019-09-01 16:27:48,459:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:31:13,905:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:31:13,905:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:31:13,913:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 16:31:13,914:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:31:13,914:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 16:31:22,460:service.requestHandler  82@_initialize] option
+[2019-09-01 16:31:22,460:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:31:22,461:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:31:22,461:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 16:31:22,461:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:31:22,462:service.requestHandler  56@_make_log] options:{'arg': 'option'}
+[2019-09-01 16:31:22,462:service.ImageEdit  18@writelog] [인수]{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:31:22,462:service.ImageEdit  18@writelog] [인수]quality
+[2019-09-01 16:31:22,462:service.ImageEdit  29@changeQuality] element {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:31:22,490:service.ImageEdit  39@changeQuality] quality 100 jpg
+[2019-09-01 16:31:22,836:service.ImageEdit  16@__init__] option {'quality': 100}
+[2019-09-01 16:31:22,837:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 16:31:35,317:service.requestHandler  82@_initialize] option
+[2019-09-01 16:31:35,317:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:31:35,318:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:31:35,318:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f01' [POST]>
+[2019-09-01 16:31:35,318:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:31:35,318:service.requestHandler  56@_make_log] options:{'edit': 'option'}
+[2019-09-01 16:31:35,319:service.ImageEdit  52@doRotate] element {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:31:35,319:service.ImageEdit  63@doRotate] degree 90 jpg
+[2019-09-01 16:31:35,711:service.ImageEdit  16@__init__] option {'degree': '90'}
+[2019-09-01 16:31:35,711:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}]
+[2019-09-01 16:31:35,711:service.FileInfoService 149@append] 추가 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'width': 2336, 'height': 4160}}
+[2019-09-01 16:32:27,714:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:32:27,715:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:32:27,715:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 16:32:27,715:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:32:27,716:service.requestHandler  56@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 16:32:27,716:service.faceRecognition  13@__init__] classifier D:\temp\haarcascade_frontalface_default.xml
+[2019-09-01 16:32:27,717:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate_quality.jpg
+[2019-09-01 16:32:27,871:service.faceRecognition  40@_operate] OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1658: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2019-09-01 16:32:27,871:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_quality_rotate.jpg
+[2019-09-01 16:32:28,022:service.faceRecognition  40@_operate] OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1658: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2019-09-01 16:32:28,037:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}}]
+[2019-09-01 16:32:28,037:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:32:28,037:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}}
+[2019-09-01 16:36:31,106:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:36:31,106:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:36:31,114:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 16:36:31,114:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:36:31,115:service.requestHandler  56@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 16:36:31,115:service.faceRecognition  13@__init__] classifier D:\Project\python\vue\assets\haarcascade_frontalface_default.xml
+[2019-09-01 16:36:31,176:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate_quality.jpg
+[2019-09-01 16:36:32,477:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 16:36:32,477:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_quality_rotate.jpg
+[2019-09-01 16:36:32,879:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 16:36:32,879:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50, 'KO_plotting': ''}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}, 'KO_plotting': ''}]
+[2019-09-01 16:36:32,879:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50, 'KO_plotting': ''}
+[2019-09-01 16:36:32,879:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}, 'KO_plotting': ''}
+[2019-09-01 16:39:19,963:service.requestHandler  82@_initialize] 옵션값 file=> 필드값 haarcascade_frontalface_default.xml
+[2019-09-01 16:39:19,970:service.requestHandler  82@_initialize] 옵션값 scale_factor=> 필드값 1.8
+[2019-09-01 16:39:19,970:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 16:39:19,971:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 16:39:19,978:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 16:39:19,979:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 16:39:19,979:service.requestHandler  56@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 16:39:19,979:service.faceRecognition  13@__init__] classifier D:\Project\python\vue\assets\haarcascade_frontalface_default.xml
+[2019-09-01 16:39:20,017:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate_quality.jpg
+[2019-09-01 16:39:20,583:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 16:39:20,583:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_quality_rotate.jpg
+[2019-09-01 16:39:20,965:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 16:39:20,988:service.requestHandler  18@writelog] [인수][{'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}, {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}}]
+[2019-09-01 16:39:20,988:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 50}
+[2019-09-01 16:39:20,988:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KO_plotting': '', 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality_rotate.jpg', 'memo': '', 'place': '', 'quality': 50, 'size': {'height': 4160, 'width': 2336}}
+[2019-09-01 17:06:36,164:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 17:06:36,165:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 17:06:36,177:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 17:06:36,178:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 17:06:36,178:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 17:08:16,028:service.requestHandler  82@_initialize] 옵션값 file=> 필드값 haarcascade_frontalface_default.xml
+[2019-09-01 17:08:16,029:service.requestHandler  82@_initialize] 옵션값 scale_factor=> 필드값 1.8
+[2019-09-01 17:08:16,029:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 17:08:16,029:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 17:08:16,030:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 17:08:16,030:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 17:08:16,030:service.requestHandler  56@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 17:08:16,030:service.faceRecognition  13@__init__] classifier D:\Project\python\vue\assets\haarcascade_frontalface_default.xml
+[2019-09-01 17:08:16,083:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190112_132548.jpg
+[2019-09-01 17:08:16,718:service.faceRecognition  29@_operate] faces 1
+[2019-09-01 17:08:16,718:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1856, 2468, 140, 140]]}
+[2019-09-01 17:08:16,718:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190112_132604.jpg
+[2019-09-01 17:08:17,160:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:17,160:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190112_160440.jpg
+[2019-09-01 17:08:17,831:service.faceRecognition  29@_operate] faces 4
+[2019-09-01 17:08:17,831:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_160440.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2935, 930, 140, 140], [1893, 1598, 78, 78], [2778, 1641, 78, 78], [1064, 1530, 140, 140]]}
+[2019-09-01 17:08:17,831:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_113812.jpg
+[2019-09-01 17:08:18,270:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:18,270:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521.jpg
+[2019-09-01 17:08:18,698:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:18,698:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_145144.jpg
+[2019-09-01 17:08:19,208:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:19,208:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_145253.jpg
+[2019-09-01 17:08:19,791:service.faceRecognition  29@_operate] faces 1
+[2019-09-01 17:08:19,791:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_145253.jpg', 'memo': '', 'place': '', 'KO_plotting': [[118, 1638, 78, 78]]}
+[2019-09-01 17:08:19,791:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_193314.jpg
+[2019-09-01 17:08:20,186:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:20,186:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_quality.jpg
+[2019-09-01 17:08:20,506:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:20,506:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190112-우에노\IMG_20190113_120521_rotate.jpg
+[2019-09-01 17:08:20,788:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:08:20,807:service.requestHandler  18@writelog] [인수][{'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1856, 2468, 140, 140]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132604.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_160440.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2935, 930, 140, 140], [1893, 1598, 78, 78], [2778, 1641, 78, 78], [1064, 1530, 140, 140]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_113812.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_145144.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_145253.jpg', 'memo': '', 'place': '', 'KO_plotting': [[118, 1638, 78, 78]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_193314.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}]
+[2019-09-01 17:08:20,807:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132548.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1856, 2468, 140, 140]]}
+[2019-09-01 17:08:20,807:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_132604.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,808:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190112_160440.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2935, 930, 140, 140], [1893, 1598, 78, 78], [2778, 1641, 78, 78], [1064, 1530, 140, 140]]}
+[2019-09-01 17:08:20,808:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_113812.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,808:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,808:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_145144.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,809:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_145253.jpg', 'memo': '', 'place': '', 'KO_plotting': [[118, 1638, 78, 78]]}
+[2019-09-01 17:08:20,809:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_193314.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,809:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_quality.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:20,809:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:08:48,149:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 17:08:48,149:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190114-아두이노키트,앨범명:190114-아두이노키트
+[2019-09-01 17:08:48,198:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 17:08:48,199:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-09-01 17:08:48,199:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 17:09:02,936:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 17:09:02,936:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190213-준석졸업식,앨범명:190213-준석졸업식
+[2019-09-01 17:09:03,080:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 17:09:03,080:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190213-준석졸업식
+[2019-09-01 17:09:03,081:service.requestHandler  56@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 17:09:18,099:service.requestHandler  82@_initialize] 옵션값 file=> 필드값 haarcascade_frontalface_default.xml
+[2019-09-01 17:09:18,100:service.requestHandler  82@_initialize] 옵션값 scale_factor=> 필드값 1.8
+[2019-09-01 17:09:18,100:service.FileInfoService  18@__init__] 워크캐쉬: {}
+[2019-09-01 17:09:18,100:service.FileInfoService  19@__init__] 패스:D:\내사진\Album 2019\190213-준석졸업식,앨범명:190213-준석졸업식
+[2019-09-01 17:09:18,101:service.requestHandler  54@_make_log] request:<Request 'http://127.0.0.1:5000/image/recognition' [POST]>
+[2019-09-01 17:09:18,101:service.requestHandler  55@_make_log] full path:D:\내사진\Album 2019\190213-준석졸업식
+[2019-09-01 17:09:18,101:service.requestHandler  56@_make_log] options:{'learning_data': 'file', 'scale_factor': 'scale_factor'}
+[2019-09-01 17:09:18,101:service.faceRecognition  13@__init__] classifier D:\Project\python\vue\assets\haarcascade_frontalface_default.xml
+[2019-09-01 17:09:18,138:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190211_094345.jpg
+[2019-09-01 17:09:18,814:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:18,814:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190211_223648.jpg
+[2019-09-01 17:09:19,516:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:19,516:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190211_223659.jpg
+[2019-09-01 17:09:20,146:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:20,146:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190212_093108.jpg
+[2019-09-01 17:09:21,738:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:21,738:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190212_095026.jpg
+[2019-09-01 17:09:23,052:service.faceRecognition  29@_operate] faces 1
+[2019-09-01 17:09:23,052:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_095026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[219, 513, 140, 140]]}
+[2019-09-01 17:09:23,052:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190212_143102.jpg
+[2019-09-01 17:09:23,626:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:23,626:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112653.jpg
+[2019-09-01 17:09:24,235:service.faceRecognition  29@_operate] faces 8
+[2019-09-01 17:09:24,235:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112653.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3912, 1573, 140, 140], [1888, 1122, 78, 78], [4979, 1590, 140, 140], [1517, 1044, 78, 78], [2689, 1086, 78, 78], [3319, 1098, 78, 78], [5030, 1190, 78, 78], [4266, 1462, 78, 78]]}
+[2019-09-01 17:09:24,235:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112656.jpg
+[2019-09-01 17:09:24,920:service.faceRecognition  29@_operate] faces 13
+[2019-09-01 17:09:24,920:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112656.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3742, 1514, 140, 140], [3490, 2202, 140, 140], [767, 973, 78, 78], [324, 988, 78, 78], [2453, 1101, 78, 78], [1342, 990, 78, 78], [3740, 1110, 78, 78], [2278, 1110, 78, 78], [4548, 1166, 78, 78], [5217, 1169, 78, 78], [2530, 1027, 78, 78], [78, 1035, 78, 78], [2190, 1455, 140, 140]]}
+[2019-09-01 17:09:24,920:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112657.jpg
+[2019-09-01 17:09:25,834:service.faceRecognition  29@_operate] faces 27
+[2019-09-01 17:09:25,834:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112657.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3976, 1223, 78, 78], [5205, 1226, 78, 78], [2829, 1229, 78, 78], [4551, 1240, 78, 78], [626, 1101, 78, 78], [2260, 1560, 140, 140], [2549, 1128, 78, 78], [3255, 1577, 140, 140], [3132, 1128, 78, 78], [389, 1135, 78, 78], [3784, 1601, 140, 140], [572, 1173, 78, 78], [2678, 1174, 78, 78], [4184, 1175, 78, 78], [147, 1180, 78, 78], [1822, 1178, 78, 78], [2003, 1182, 78, 78], [1615, 1187, 78, 78], [2484, 1196, 78, 78], [3809, 1198, 78, 78], [3742, 1207, 78, 78], [2937, 1207, 78, 78], [3528, 1210, 78, 78], [4721, 1215, 78, 78], [2340, 1218, 78, 78], [3123, 1402, 78, 78], [2743, 1409, 78, 78]]}
+[2019-09-01 17:09:25,834:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112701.jpg
+[2019-09-01 17:09:26,945:service.faceRecognition  29@_operate] faces 9
+[2019-09-01 17:09:26,945:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112701.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3485, 428, 78, 78], [2049, 186, 140, 140], [3482, 172, 140, 140], [360, 303, 140, 140], [803, 304, 140, 140], [1447, 1213, 252, 252], [4735, 352, 140, 140], [4733, 1179, 252, 252], [4646, 1570, 78, 78]]}
+[2019-09-01 17:09:26,945:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112704.jpg
+[2019-09-01 17:09:28,260:service.faceRecognition  29@_operate] faces 11
+[2019-09-01 17:09:28,260:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112704.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2221, 867, 252, 252], [743, 194, 140, 140], [1221, 199, 140, 140], [2067, 212, 140, 140], [3440, 405, 140, 140], [76, 73, 140, 140], [1825, 257, 140, 140], [2471, 100, 140, 140], [5168, 109, 140, 140], [4625, 289, 140, 140], [5156, 309, 140, 140]]}
+[2019-09-01 17:09:28,260:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112707.jpg
+[2019-09-01 17:09:29,493:service.faceRecognition  29@_operate] faces 10
+[2019-09-01 17:09:29,509:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112707.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 420, 78, 78], [1434, 226, 140, 140], [925, 225, 140, 140], [638, 284, 140, 140], [2675, 131, 140, 140], [2120, 297, 140, 140], [1882, 311, 140, 140], [2307, 312, 140, 140], [3907, 680, 140, 140], [4130, 172, 140, 140]]}
+[2019-09-01 17:09:29,509:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112710.jpg
+[2019-09-01 17:09:30,666:service.faceRecognition  29@_operate] faces 7
+[2019-09-01 17:09:30,666:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112710.jpg', 'memo': '', 'place': '', 'KO_plotting': [[595, 207, 140, 140], [2670, 37, 140, 140], [4101, 50, 140, 140], [2095, 916, 78, 78], [3628, 117, 140, 140], [3643, 347, 140, 140], [3907, 552, 140, 140]]}
+[2019-09-01 17:09:30,666:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112728.jpg
+[2019-09-01 17:09:31,585:service.faceRecognition  29@_operate] faces 6
+[2019-09-01 17:09:31,585:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112728.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4919, 2148, 78, 78], [5010, 2186, 78, 78], [1951, 2738, 252, 250], [3129, 1824, 78, 78], [3562, 1836, 78, 78], [5081, 2354, 78, 78]]}
+[2019-09-01 17:09:31,585:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112848.jpg
+[2019-09-01 17:09:32,722:service.faceRecognition  29@_operate] faces 19
+[2019-09-01 17:09:32,722:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112848.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3432, 1236, 78, 78], [3594, 1098, 78, 78], [2532, 1738, 453, 453], [4579, 1115, 78, 78], [884, 1120, 78, 78], [1345, 1163, 78, 78], [135, 1131, 78, 78], [2185, 1163, 78, 78], [4214, 1184, 78, 78], [2426, 1153, 78, 78], [3162, 1152, 78, 78], [5134, 1193, 78, 78], [5213, 1200, 78, 78], [2440, 1370, 78, 78], [3295, 1218, 78, 78], [3926, 1220, 78, 78], [4392, 1571, 78, 78], [3721, 1424, 140, 140], [3977, 1450, 140, 140]]}
+[2019-09-01 17:09:32,722:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112854.jpg
+[2019-09-01 17:09:33,543:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:33,543:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112854.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4120, 1323, 252, 252], [2740, 1391, 816, 816], [3896, 1247, 140, 140]]}
+[2019-09-01 17:09:33,543:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_112857.jpg
+[2019-09-01 17:09:34,553:service.faceRecognition  29@_operate] faces 9
+[2019-09-01 17:09:34,553:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112857.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2251, 751, 816, 816], [3826, 765, 816, 816], [520, 2096, 78, 78], [3527, 843, 78, 78], [2006, 1176, 140, 140], [1505, 880, 78, 78], [2891, 1338, 816, 816], [4913, 1107, 252, 252], [2039, 956, 140, 140]]}
+[2019-09-01 17:09:34,553:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113453.jpg
+[2019-09-01 17:09:35,472:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:35,472:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113453.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1501, 1452, 252, 252], [2442, 1994, 140, 140]]}
+[2019-09-01 17:09:35,472:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113459.jpg
+[2019-09-01 17:09:36,556:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:36,556:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113459.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4888, 1516, 43, 43], [2740, 1550, 43, 43], [2933, 2085, 140, 140]]}
+[2019-09-01 17:09:36,556:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113504.jpg
+[2019-09-01 17:09:37,729:service.faceRecognition  29@_operate] faces 9
+[2019-09-01 17:09:37,729:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113504.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3928, 1254, 43, 43], [3246, 1272, 43, 43], [2866, 1282, 43, 43], [3926, 1616, 140, 140], [1520, 1331, 43, 43], [2396, 1302, 43, 43], [3814, 1406, 78, 78], [1591, 1359, 43, 43], [1827, 1320, 43, 43]]}
+[2019-09-01 17:09:37,729:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113510.jpg
+[2019-09-01 17:09:38,481:service.faceRecognition  29@_operate] faces 6
+[2019-09-01 17:09:38,481:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113510.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3053, 764, 816, 816], [4112, 1188, 140, 140], [4286, 1159, 78, 78], [110, 2430, 78, 78], [4141, 1218, 78, 78], [910, 1501, 78, 78]]}
+[2019-09-01 17:09:38,481:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113512.jpg
+[2019-09-01 17:09:39,352:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:39,352:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113512.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 1222, 78, 78], [5024, 2166, 78, 78], [4866, 1622, 252, 252]]}
+[2019-09-01 17:09:39,352:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113514.jpg
+[2019-09-01 17:09:40,299:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:40,299:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113514.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4752, 1518, 252, 252], [1667, 1176, 78, 78], [3866, 1185, 78, 78]]}
+[2019-09-01 17:09:40,299:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113517.jpg
+[2019-09-01 17:09:41,312:service.faceRecognition  29@_operate] faces 5
+[2019-09-01 17:09:41,312:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113517.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2381, 1202, 453, 453], [1670, 1322, 78, 78], [4633, 1873, 252, 252], [258, 1015, 140, 140], [4175, 1702, 252, 252]]}
+[2019-09-01 17:09:41,312:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113519.jpg
+[2019-09-01 17:09:42,173:service.faceRecognition  29@_operate] faces 6
+[2019-09-01 17:09:42,173:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113519.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2197, 1195, 453, 453], [3893, 1149, 140, 140], [4344, 1827, 252, 252], [1370, 1316, 78, 78], [3886, 1655, 252, 252], [1508, 1444, 140, 140]]}
+[2019-09-01 17:09:42,173:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113846.jpg
+[2019-09-01 17:09:43,190:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:43,190:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113846.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1979, 590, 140, 140], [631, 1568, 78, 78]]}
+[2019-09-01 17:09:43,190:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_113928.jpg
+[2019-09-01 17:09:44,359:service.faceRecognition  29@_operate] faces 5
+[2019-09-01 17:09:44,359:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113928.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1185, 1161, 453, 453], [4647, 932, 252, 252], [1662, 881, 140, 140], [2900, 1025, 453, 453], [865, 1035, 140, 140]]}
+[2019-09-01 17:09:44,359:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_115658.jpg
+[2019-09-01 17:09:45,266:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:45,266:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_115658.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4074, 1610, 43, 43], [4318, 1624, 43, 43]]}
+[2019-09-01 17:09:45,266:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_120058.jpg
+[2019-09-01 17:09:46,083:service.faceRecognition  29@_operate] faces 6
+[2019-09-01 17:09:46,083:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120058.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2025, 1124, 140, 140], [1208, 1571, 140, 140], [2245, 1175, 78, 78], [3524, 1191, 78, 78], [636, 1085, 140, 140], [1501, 1090, 140, 140]]}
+[2019-09-01 17:09:46,083:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_120115.jpg
+[2019-09-01 17:09:46,942:service.faceRecognition  29@_operate] faces 8
+[2019-09-01 17:09:46,942:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120115.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2326, 1306, 78, 78], [2062, 1321, 78, 78], [2199, 1372, 78, 78], [1944, 1316, 140, 140], [1334, 2112, 252, 252], [4634, 1629, 140, 140], [892, 1793, 140, 140], [1186, 1807, 140, 140]]}
+[2019-09-01 17:09:46,942:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_120119.jpg
+[2019-09-01 17:09:47,896:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:47,911:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120119.jpg', 'memo': '', 'place': '', 'KO_plotting': [[842, 1512, 78, 78], [1860, 2528, 252, 252]]}
+[2019-09-01 17:09:47,911:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_121740.jpg
+[2019-09-01 17:09:49,347:service.faceRecognition  29@_operate] faces 4
+[2019-09-01 17:09:49,347:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121740.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3019, 1676, 252, 252], [1664, 2504, 252, 252], [1396, 1494, 252, 252], [3506, 1562, 252, 252]]}
+[2019-09-01 17:09:49,347:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_121748.jpg
+[2019-09-01 17:09:50,394:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:50,394:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121748.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2364, 358, 78, 78], [1764, 2252, 252, 252], [1396, 2345, 252, 252]]}
+[2019-09-01 17:09:50,394:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_122559.jpg
+[2019-09-01 17:09:50,731:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:50,731:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122559.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1902, 795, 252, 252], [1779, 793, 78, 78]]}
+[2019-09-01 17:09:50,731:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_122603.jpg
+[2019-09-01 17:09:51,080:service.faceRecognition  29@_operate] faces 4
+[2019-09-01 17:09:51,080:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122603.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1910, 781, 140, 140], [1866, 724, 252, 252], [1828, 741, 78, 78], [173, 672, 453, 453]]}
+[2019-09-01 17:09:51,080:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_122844.jpg
+[2019-09-01 17:09:51,779:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:51,779:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122844.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1170, 430, 252, 252], [1746, 684, 453, 453]]}
+[2019-09-01 17:09:51,779:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_122903.jpg
+[2019-09-01 17:09:52,557:service.faceRecognition  29@_operate] faces 3
+[2019-09-01 17:09:52,557:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122903.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1994, 86, 78, 78], [1132, 168, 78, 78], [4135, 622, 252, 252]]}
+[2019-09-01 17:09:52,557:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_122906.jpg
+[2019-09-01 17:09:53,319:service.faceRecognition  29@_operate] faces 1
+[2019-09-01 17:09:53,319:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122906.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3837, 479, 252, 252]]}
+[2019-09-01 17:09:53,319:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_123026.jpg
+[2019-09-01 17:09:54,242:service.faceRecognition  29@_operate] faces 2
+[2019-09-01 17:09:54,242:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_123026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1439, 478, 816, 816], [828, 736, 252, 252]]}
+[2019-09-01 17:09:54,242:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_123057.jpg
+[2019-09-01 17:09:54,981:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:54,981:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190213_124622.jpg
+[2019-09-01 17:09:55,974:service.faceRecognition  29@_operate] faces 1
+[2019-09-01 17:09:55,974:service.faceRecognition  34@_operate] 결과 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_124622.jpg', 'memo': '', 'place': '', 'KO_plotting': [[770, 95, 252, 252]]}
+[2019-09-01 17:09:55,974:service.faceRecognition  23@_operate] fullpath D:\내사진\Album 2019\190213-준석졸업식\20190211_223648_rotate.jpg
+[2019-09-01 17:09:56,802:service.faceRecognition  29@_operate] faces 0
+[2019-09-01 17:09:56,840:service.requestHandler  18@writelog] [인수][{'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_094345.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223648.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223659.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_093108.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_095026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[219, 513, 140, 140]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_143102.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112653.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3912, 1573, 140, 140], [1888, 1122, 78, 78], [4979, 1590, 140, 140], [1517, 1044, 78, 78], [2689, 1086, 78, 78], [3319, 1098, 78, 78], [5030, 1190, 78, 78], [4266, 1462, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112656.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3742, 1514, 140, 140], [3490, 2202, 140, 140], [767, 973, 78, 78], [324, 988, 78, 78], [2453, 1101, 78, 78], [1342, 990, 78, 78], [3740, 1110, 78, 78], [2278, 1110, 78, 78], [4548, 1166, 78, 78], [5217, 1169, 78, 78], [2530, 1027, 78, 78], [78, 1035, 78, 78], [2190, 1455, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112657.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3976, 1223, 78, 78], [5205, 1226, 78, 78], [2829, 1229, 78, 78], [4551, 1240, 78, 78], [626, 1101, 78, 78], [2260, 1560, 140, 140], [2549, 1128, 78, 78], [3255, 1577, 140, 140], [3132, 1128, 78, 78], [389, 1135, 78, 78], [3784, 1601, 140, 140], [572, 1173, 78, 78], [2678, 1174, 78, 78], [4184, 1175, 78, 78], [147, 1180, 78, 78], [1822, 1178, 78, 78], [2003, 1182, 78, 78], [1615, 1187, 78, 78], [2484, 1196, 78, 78], [3809, 1198, 78, 78], [3742, 1207, 78, 78], [2937, 1207, 78, 78], [3528, 1210, 78, 78], [4721, 1215, 78, 78], [2340, 1218, 78, 78], [3123, 1402, 78, 78], [2743, 1409, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112701.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3485, 428, 78, 78], [2049, 186, 140, 140], [3482, 172, 140, 140], [360, 303, 140, 140], [803, 304, 140, 140], [1447, 1213, 252, 252], [4735, 352, 140, 140], [4733, 1179, 252, 252], [4646, 1570, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112704.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2221, 867, 252, 252], [743, 194, 140, 140], [1221, 199, 140, 140], [2067, 212, 140, 140], [3440, 405, 140, 140], [76, 73, 140, 140], [1825, 257, 140, 140], [2471, 100, 140, 140], [5168, 109, 140, 140], [4625, 289, 140, 140], [5156, 309, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112707.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 420, 78, 78], [1434, 226, 140, 140], [925, 225, 140, 140], [638, 284, 140, 140], [2675, 131, 140, 140], [2120, 297, 140, 140], [1882, 311, 140, 140], [2307, 312, 140, 140], [3907, 680, 140, 140], [4130, 172, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112710.jpg', 'memo': '', 'place': '', 'KO_plotting': [[595, 207, 140, 140], [2670, 37, 140, 140], [4101, 50, 140, 140], [2095, 916, 78, 78], [3628, 117, 140, 140], [3643, 347, 140, 140], [3907, 552, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112728.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4919, 2148, 78, 78], [5010, 2186, 78, 78], [1951, 2738, 252, 250], [3129, 1824, 78, 78], [3562, 1836, 78, 78], [5081, 2354, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112848.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3432, 1236, 78, 78], [3594, 1098, 78, 78], [2532, 1738, 453, 453], [4579, 1115, 78, 78], [884, 1120, 78, 78], [1345, 1163, 78, 78], [135, 1131, 78, 78], [2185, 1163, 78, 78], [4214, 1184, 78, 78], [2426, 1153, 78, 78], [3162, 1152, 78, 78], [5134, 1193, 78, 78], [5213, 1200, 78, 78], [2440, 1370, 78, 78], [3295, 1218, 78, 78], [3926, 1220, 78, 78], [4392, 1571, 78, 78], [3721, 1424, 140, 140], [3977, 1450, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112854.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4120, 1323, 252, 252], [2740, 1391, 816, 816], [3896, 1247, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112857.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2251, 751, 816, 816], [3826, 765, 816, 816], [520, 2096, 78, 78], [3527, 843, 78, 78], [2006, 1176, 140, 140], [1505, 880, 78, 78], [2891, 1338, 816, 816], [4913, 1107, 252, 252], [2039, 956, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113453.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1501, 1452, 252, 252], [2442, 1994, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113459.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4888, 1516, 43, 43], [2740, 1550, 43, 43], [2933, 2085, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113504.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3928, 1254, 43, 43], [3246, 1272, 43, 43], [2866, 1282, 43, 43], [3926, 1616, 140, 140], [1520, 1331, 43, 43], [2396, 1302, 43, 43], [3814, 1406, 78, 78], [1591, 1359, 43, 43], [1827, 1320, 43, 43]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113510.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3053, 764, 816, 816], [4112, 1188, 140, 140], [4286, 1159, 78, 78], [110, 2430, 78, 78], [4141, 1218, 78, 78], [910, 1501, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113512.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 1222, 78, 78], [5024, 2166, 78, 78], [4866, 1622, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113514.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4752, 1518, 252, 252], [1667, 1176, 78, 78], [3866, 1185, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113517.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2381, 1202, 453, 453], [1670, 1322, 78, 78], [4633, 1873, 252, 252], [258, 1015, 140, 140], [4175, 1702, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113519.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2197, 1195, 453, 453], [3893, 1149, 140, 140], [4344, 1827, 252, 252], [1370, 1316, 78, 78], [3886, 1655, 252, 252], [1508, 1444, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113846.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1979, 590, 140, 140], [631, 1568, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113928.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1185, 1161, 453, 453], [4647, 932, 252, 252], [1662, 881, 140, 140], [2900, 1025, 453, 453], [865, 1035, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_115658.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4074, 1610, 43, 43], [4318, 1624, 43, 43]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120058.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2025, 1124, 140, 140], [1208, 1571, 140, 140], [2245, 1175, 78, 78], [3524, 1191, 78, 78], [636, 1085, 140, 140], [1501, 1090, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120115.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2326, 1306, 78, 78], [2062, 1321, 78, 78], [2199, 1372, 78, 78], [1944, 1316, 140, 140], [1334, 2112, 252, 252], [4634, 1629, 140, 140], [892, 1793, 140, 140], [1186, 1807, 140, 140]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120119.jpg', 'memo': '', 'place': '', 'KO_plotting': [[842, 1512, 78, 78], [1860, 2528, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121740.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3019, 1676, 252, 252], [1664, 2504, 252, 252], [1396, 1494, 252, 252], [3506, 1562, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121748.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2364, 358, 78, 78], [1764, 2252, 252, 252], [1396, 2345, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122559.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1902, 795, 252, 252], [1779, 793, 78, 78]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122603.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1910, 781, 140, 140], [1866, 724, 252, 252], [1828, 741, 78, 78], [173, 672, 453, 453]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122844.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1170, 430, 252, 252], [1746, 684, 453, 453]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122903.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1994, 86, 78, 78], [1132, 168, 78, 78], [4135, 622, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122906.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3837, 479, 252, 252]]}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_123026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1439, 478, 816, 816], [828, 736, 252, 252]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_123057.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}, {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_124622.jpg', 'memo': '', 'place': '', 'KO_plotting': [[770, 95, 252, 252]]}, {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223648_rotate.jpg', 'memo': '', 'place': '', 'size': {'height': 2988, 'width': 5312}, 'KO_plotting': ''}]
+[2019-09-01 17:09:56,841:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_094345.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,842:service.FileInfoService 130@update] 수정 {'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223648.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,842:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223659.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,842:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_093108.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,842:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_095026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[219, 513, 140, 140]]}
+[2019-09-01 17:09:56,842:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190212_143102.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,843:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112653.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3912, 1573, 140, 140], [1888, 1122, 78, 78], [4979, 1590, 140, 140], [1517, 1044, 78, 78], [2689, 1086, 78, 78], [3319, 1098, 78, 78], [5030, 1190, 78, 78], [4266, 1462, 78, 78]]}
+[2019-09-01 17:09:56,843:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112656.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3742, 1514, 140, 140], [3490, 2202, 140, 140], [767, 973, 78, 78], [324, 988, 78, 78], [2453, 1101, 78, 78], [1342, 990, 78, 78], [3740, 1110, 78, 78], [2278, 1110, 78, 78], [4548, 1166, 78, 78], [5217, 1169, 78, 78], [2530, 1027, 78, 78], [78, 1035, 78, 78], [2190, 1455, 140, 140]]}
+[2019-09-01 17:09:56,843:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112657.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3976, 1223, 78, 78], [5205, 1226, 78, 78], [2829, 1229, 78, 78], [4551, 1240, 78, 78], [626, 1101, 78, 78], [2260, 1560, 140, 140], [2549, 1128, 78, 78], [3255, 1577, 140, 140], [3132, 1128, 78, 78], [389, 1135, 78, 78], [3784, 1601, 140, 140], [572, 1173, 78, 78], [2678, 1174, 78, 78], [4184, 1175, 78, 78], [147, 1180, 78, 78], [1822, 1178, 78, 78], [2003, 1182, 78, 78], [1615, 1187, 78, 78], [2484, 1196, 78, 78], [3809, 1198, 78, 78], [3742, 1207, 78, 78], [2937, 1207, 78, 78], [3528, 1210, 78, 78], [4721, 1215, 78, 78], [2340, 1218, 78, 78], [3123, 1402, 78, 78], [2743, 1409, 78, 78]]}
+[2019-09-01 17:09:56,843:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112701.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3485, 428, 78, 78], [2049, 186, 140, 140], [3482, 172, 140, 140], [360, 303, 140, 140], [803, 304, 140, 140], [1447, 1213, 252, 252], [4735, 352, 140, 140], [4733, 1179, 252, 252], [4646, 1570, 78, 78]]}
+[2019-09-01 17:09:56,844:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112704.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2221, 867, 252, 252], [743, 194, 140, 140], [1221, 199, 140, 140], [2067, 212, 140, 140], [3440, 405, 140, 140], [76, 73, 140, 140], [1825, 257, 140, 140], [2471, 100, 140, 140], [5168, 109, 140, 140], [4625, 289, 140, 140], [5156, 309, 140, 140]]}
+[2019-09-01 17:09:56,844:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112707.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 420, 78, 78], [1434, 226, 140, 140], [925, 225, 140, 140], [638, 284, 140, 140], [2675, 131, 140, 140], [2120, 297, 140, 140], [1882, 311, 140, 140], [2307, 312, 140, 140], [3907, 680, 140, 140], [4130, 172, 140, 140]]}
+[2019-09-01 17:09:56,844:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112710.jpg', 'memo': '', 'place': '', 'KO_plotting': [[595, 207, 140, 140], [2670, 37, 140, 140], [4101, 50, 140, 140], [2095, 916, 78, 78], [3628, 117, 140, 140], [3643, 347, 140, 140], [3907, 552, 140, 140]]}
+[2019-09-01 17:09:56,844:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112728.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4919, 2148, 78, 78], [5010, 2186, 78, 78], [1951, 2738, 252, 250], [3129, 1824, 78, 78], [3562, 1836, 78, 78], [5081, 2354, 78, 78]]}
+[2019-09-01 17:09:56,845:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112848.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3432, 1236, 78, 78], [3594, 1098, 78, 78], [2532, 1738, 453, 453], [4579, 1115, 78, 78], [884, 1120, 78, 78], [1345, 1163, 78, 78], [135, 1131, 78, 78], [2185, 1163, 78, 78], [4214, 1184, 78, 78], [2426, 1153, 78, 78], [3162, 1152, 78, 78], [5134, 1193, 78, 78], [5213, 1200, 78, 78], [2440, 1370, 78, 78], [3295, 1218, 78, 78], [3926, 1220, 78, 78], [4392, 1571, 78, 78], [3721, 1424, 140, 140], [3977, 1450, 140, 140]]}
+[2019-09-01 17:09:56,845:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112854.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4120, 1323, 252, 252], [2740, 1391, 816, 816], [3896, 1247, 140, 140]]}
+[2019-09-01 17:09:56,845:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_112857.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2251, 751, 816, 816], [3826, 765, 816, 816], [520, 2096, 78, 78], [3527, 843, 78, 78], [2006, 1176, 140, 140], [1505, 880, 78, 78], [2891, 1338, 816, 816], [4913, 1107, 252, 252], [2039, 956, 140, 140]]}
+[2019-09-01 17:09:56,845:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113453.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1501, 1452, 252, 252], [2442, 1994, 140, 140]]}
+[2019-09-01 17:09:56,846:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113459.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4888, 1516, 43, 43], [2740, 1550, 43, 43], [2933, 2085, 140, 140]]}
+[2019-09-01 17:09:56,846:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113504.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3928, 1254, 43, 43], [3246, 1272, 43, 43], [2866, 1282, 43, 43], [3926, 1616, 140, 140], [1520, 1331, 43, 43], [2396, 1302, 43, 43], [3814, 1406, 78, 78], [1591, 1359, 43, 43], [1827, 1320, 43, 43]]}
+[2019-09-01 17:09:56,846:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113510.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3053, 764, 816, 816], [4112, 1188, 140, 140], [4286, 1159, 78, 78], [110, 2430, 78, 78], [4141, 1218, 78, 78], [910, 1501, 78, 78]]}
+[2019-09-01 17:09:56,846:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113512.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4112, 1222, 78, 78], [5024, 2166, 78, 78], [4866, 1622, 252, 252]]}
+[2019-09-01 17:09:56,847:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113514.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4752, 1518, 252, 252], [1667, 1176, 78, 78], [3866, 1185, 78, 78]]}
+[2019-09-01 17:09:56,847:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113517.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2381, 1202, 453, 453], [1670, 1322, 78, 78], [4633, 1873, 252, 252], [258, 1015, 140, 140], [4175, 1702, 252, 252]]}
+[2019-09-01 17:09:56,847:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113519.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2197, 1195, 453, 453], [3893, 1149, 140, 140], [4344, 1827, 252, 252], [1370, 1316, 78, 78], [3886, 1655, 252, 252], [1508, 1444, 140, 140]]}
+[2019-09-01 17:09:56,847:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113846.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1979, 590, 140, 140], [631, 1568, 78, 78]]}
+[2019-09-01 17:09:56,848:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_113928.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1185, 1161, 453, 453], [4647, 932, 252, 252], [1662, 881, 140, 140], [2900, 1025, 453, 453], [865, 1035, 140, 140]]}
+[2019-09-01 17:09:56,848:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_115658.jpg', 'memo': '', 'place': '', 'KO_plotting': [[4074, 1610, 43, 43], [4318, 1624, 43, 43]]}
+[2019-09-01 17:09:56,848:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120058.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2025, 1124, 140, 140], [1208, 1571, 140, 140], [2245, 1175, 78, 78], [3524, 1191, 78, 78], [636, 1085, 140, 140], [1501, 1090, 140, 140]]}
+[2019-09-01 17:09:56,849:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120115.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2326, 1306, 78, 78], [2062, 1321, 78, 78], [2199, 1372, 78, 78], [1944, 1316, 140, 140], [1334, 2112, 252, 252], [4634, 1629, 140, 140], [892, 1793, 140, 140], [1186, 1807, 140, 140]]}
+[2019-09-01 17:09:56,849:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_120119.jpg', 'memo': '', 'place': '', 'KO_plotting': [[842, 1512, 78, 78], [1860, 2528, 252, 252]]}
+[2019-09-01 17:09:56,849:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121740.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3019, 1676, 252, 252], [1664, 2504, 252, 252], [1396, 1494, 252, 252], [3506, 1562, 252, 252]]}
+[2019-09-01 17:09:56,849:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_121748.jpg', 'memo': '', 'place': '', 'KO_plotting': [[2364, 358, 78, 78], [1764, 2252, 252, 252], [1396, 2345, 252, 252]]}
+[2019-09-01 17:09:56,849:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122559.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1902, 795, 252, 252], [1779, 793, 78, 78]]}
+[2019-09-01 17:09:56,850:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122603.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1910, 781, 140, 140], [1866, 724, 252, 252], [1828, 741, 78, 78], [173, 672, 453, 453]]}
+[2019-09-01 17:09:56,850:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122844.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1170, 430, 252, 252], [1746, 684, 453, 453]]}
+[2019-09-01 17:09:56,850:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122903.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1994, 86, 78, 78], [1132, 168, 78, 78], [4135, 622, 252, 252]]}
+[2019-09-01 17:09:56,850:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_122906.jpg', 'memo': '', 'place': '', 'KO_plotting': [[3837, 479, 252, 252]]}
+[2019-09-01 17:09:56,851:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_123026.jpg', 'memo': '', 'place': '', 'KO_plotting': [[1439, 478, 816, 816], [828, 736, 252, 252]]}
+[2019-09-01 17:09:56,851:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_123057.jpg', 'memo': '', 'place': '', 'KO_plotting': ''}
+[2019-09-01 17:09:56,851:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': True, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190213_124622.jpg', 'memo': '', 'place': '', 'KO_plotting': [[770, 95, 252, 252]]}
+[2019-09-01 17:09:56,851:service.FileInfoService 130@update] 수정 {'HQ': False, 'KO': False, 'KW': [], 'ME': False, 'album': '190213-준석졸업식', 'filename': '20190211_223648_rotate.jpg', 'memo': '', 'place': '', 'size': {'height': 2988, 'width': 5312}, 'KO_plotting': ''}

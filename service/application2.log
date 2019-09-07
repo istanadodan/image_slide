@@ -1,0 +1,52 @@
+[2019-09-01 08:47:52,827:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 08:47:52,830:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 08:47:52,839:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 08:47:52,840:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 08:47:52,840:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 08:51:41,030:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 08:51:41,031:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 08:51:41,039:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 08:51:41,039:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 08:51:41,039:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 08:56:09,763:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 08:56:09,764:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 08:56:09,771:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 08:56:09,772:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 08:56:09,772:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 08:58:35,099:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 08:58:35,100:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 08:58:35,107:service.requestHandler- 59@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 08:58:35,108:service.requestHandler- 60@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 08:58:35,108:service.requestHandler- 61@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 08:59:20,573:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 08:59:20,574:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 08:59:20,583:service.requestHandler- 59@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 08:59:20,583:service.requestHandler- 60@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 08:59:20,583:service.requestHandler- 61@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 09:00:47,487:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 09:00:47,488:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 09:01:33,916:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 09:01:33,917:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 09:01:33,924:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-09-01 09:01:33,924:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 09:01:33,925:service.requestHandler- 62@_make_log] options:{'reqFileHandling': True}
+[2019-09-01 09:02:31,780:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 09:02:31,780:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 09:02:31,780:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 09:02:31,780:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 09:02:31,780:service.requestHandler- 62@_make_log] options:{'arg': 'option'}
+[2019-09-01 09:02:32,180:append- 16@logging] [반환]append
+[2019-09-01 09:02:32,180:service.requestHandler-109@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 09:04:58,719:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 09:04:58,719:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 09:04:58,737:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 09:04:58,737:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 09:04:58,737:service.requestHandler- 62@_make_log] options:{'arg': 'option'}
+[2019-09-01 09:04:59,119:service.requestHandler-109@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 09:06:46,481:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-09-01 09:06:46,481:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-09-01 09:06:46,481:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-09-01 09:06:46,481:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-09-01 09:06:46,481:service.requestHandler- 60@_make_log] options:{'arg': 'option'}
+[2019-09-01 09:06:46,884:service.requestHandler-107@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-01 09:06:46,884:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]

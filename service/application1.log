@@ -1,0 +1,157 @@
+[2019-08-31 20:14:47,430:_initialize- 18@     type2] //entry
+[2019-08-31 20:14:47,439:_make_log- 11@    logger] make_log test
+[2019-08-31 20:14:47,439:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:14:47,439:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:14:47,441:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:16:33,069:_initialize- 18@     type2] //entry
+[2019-08-31 20:16:33,071:_make_log- 11@    logger] make_log test
+[2019-08-31 20:16:33,071:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:16:33,071:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:16:33,071:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:20:38,825:_initialize- 18@     type2] //entry
+[2019-08-31 20:20:38,834:_make_log- 11@    logger] make_log test
+[2019-08-31 20:20:38,835:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:20:38,835:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:20:38,835:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:22:06,622:_initialize- 18@     type2] //entry
+[2019-08-31 20:22:06,630:_make_log- 11@    logger] make_log test
+[2019-08-31 20:22:06,631:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:22:06,631:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:22:06,631:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:22:57,087:_initialize- 18@     type2] //entry
+[2019-08-31 20:22:57,095:_make_log- 11@    logger] make_log test
+[2019-08-31 20:22:57,096:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:22:57,096:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:22:57,096:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:24:05,826:_initialize- 18@     type2] //entry
+[2019-08-31 20:24:05,827:_make_log- 11@    logger] make_log test
+[2019-08-31 20:24:05,827:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:24:05,827:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:24:05,827:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:41:20,872:_initialize- 18@     type2] //entry
+[2019-08-31 20:41:20,888:_make_log- 11@    logger] make_log test
+[2019-08-31 20:41:20,889:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:41:20,889:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:41:20,889:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:43:17,332:_initialize- 18@     type2] //entry
+[2019-08-31 20:43:17,337:_make_log- 11@    logger] make_log test
+[2019-08-31 20:43:17,337:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:43:17,337:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:43:17,337:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:44:58,280:_initialize- 18@     type2] //entry
+[2019-08-31 20:44:58,288:_make_log- 11@    logger] make_log test
+[2019-08-31 20:44:58,289:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:44:58,289:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:44:58,290:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:46:06,065:_initialize- 18@     type2] //entry
+[2019-08-31 20:46:06,065:_make_log- 11@    logger] make_log test
+[2019-08-31 20:46:06,065:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:46:06,065:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:46:06,065:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 20:51:05,413:_initialize- 18@     type2] //entry
+[2019-08-31 20:51:05,420:_make_log- 11@    logger] make_log test
+[2019-08-31 20:51:05,421:service.requestHandler- 48@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 20:51:05,421:service.requestHandler- 49@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 20:51:05,421:service.requestHandler- 50@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:07:08,689:_initialize- 16@     type2] //entry
+[2019-08-31 21:07:08,696:_make_log- 16@     type2] //entry
+[2019-08-31 21:07:08,697:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:07:08,697:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:07:08,697:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:07:42,420:_initialize- 16@     type2] //entry
+[2019-08-31 21:07:42,428:_make_log- 16@     type2] //entry
+[2019-08-31 21:07:42,428:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:07:42,428:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:07:42,429:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:07:46,068:_initialize- 16@     type2] //entry
+[2019-08-31 21:07:46,082:_make_log- 16@     type2] //entry
+[2019-08-31 21:07:46,083:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:07:46,083:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-08-31 21:07:46,083:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:08:44,665:_initialize- 16@     type2] //entry
+[2019-08-31 21:08:44,796:_make_log- 16@     type2] //entry
+[2019-08-31 21:08:44,796:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:08:44,796:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190120-스카이트리
+[2019-08-31 21:08:44,796:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:08:48,049:_initialize- 16@     type2] //entry
+[2019-08-31 21:08:48,057:_make_log- 16@     type2] //entry
+[2019-08-31 21:08:48,058:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:08:48,058:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:08:48,058:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:14:39,771:_initialize- 16@     type2] //entry
+[2019-08-31 21:14:39,808:_make_log- 16@     type2] //entry
+[2019-08-31 21:14:39,809:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:14:39,809:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-08-31 21:14:39,810:service.requestHandler- 45@ _make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:14:57,416:_initialize- 16@     type2] //entry
+[2019-08-31 21:17:19,287:_initialize- 16@     type2] //entry
+[2019-08-31 21:17:19,344:_make_log- 16@     type2] //entry
+[2019-08-31 21:17:19,345:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-08-31 21:17:19,345:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-08-31 21:17:19,345:service.requestHandler- 45@ _make_log] options:{'arg': 'option'}
+[2019-08-31 21:17:19,818:append- 16@     type2] //entry
+[2019-08-31 21:17:51,513:_initialize- 16@     type2] //entry
+[2019-08-31 21:17:51,557:_make_log- 16@     type2] //entry
+[2019-08-31 21:17:51,558:service.requestHandler- 43@ _make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f01' [POST]>
+[2019-08-31 21:17:51,565:service.requestHandler- 44@ _make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-08-31 21:17:51,566:service.requestHandler- 45@ _make_log] options:{'edit': 'option'}
+[2019-08-31 21:17:52,175:append- 16@     type2] //entry
+[2019-08-31 21:22:21,356:_initialize- 16@type2] //entry
+[2019-08-31 21:22:21,385:_make_log- 16@type2] //entry
+[2019-08-31 21:22:21,385:service.requestHandler- 44@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:22:21,386:service.requestHandler- 45@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:22:21,386:service.requestHandler- 46@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:22:31,137:_initialize- 16@type2] //entry
+[2019-08-31 21:22:31,164:_make_log- 16@type2] //entry
+[2019-08-31 21:22:31,165:service.requestHandler- 44@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-08-31 21:22:31,165:service.requestHandler- 45@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:22:31,165:service.requestHandler- 46@_make_log] options:{'arg': 'option'}
+[2019-08-31 21:22:31,598:append- 16@type2] //entry
+[2019-08-31 21:22:31,598:service.requestHandler- 93@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-08-31 21:27:57,993:_initialize- 16@type2] //entry
+[2019-08-31 21:27:58,031:_make_log- 16@type2] //entry
+[2019-08-31 21:27:58,031:service.requestHandler- 44@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
+[2019-08-31 21:27:58,032:service.requestHandler- 45@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:27:58,032:service.requestHandler- 46@_make_log] options:{'arg': 'option'}
+[2019-08-31 21:27:58,373:append-  9@logger] append
+[2019-08-31 21:27:58,375:service.requestHandler- 93@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 65}]
+[2019-08-31 21:52:45,123:_initialize- 19@type2] //entry
+[2019-08-31 21:52:45,209:_make_log- 19@type2] //entry
+[2019-08-31 21:52:45,210:service.requestHandler- 47@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:52:45,210:service.requestHandler- 48@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:52:45,211:service.requestHandler- 49@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:53:20,618:_initialize- 19@type2] //entry
+[2019-08-31 21:53:20,647:_make_log- 19@type2] //entry
+[2019-08-31 21:53:20,647:service.requestHandler- 47@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:53:20,647:service.requestHandler- 48@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:53:20,647:service.requestHandler- 49@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:55:51,149:_initialize- 19@type2] //entry
+[2019-08-31 21:55:51,150:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-08-31 21:55:51,152:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190114-아두이노키트,앨범명:190114-아두이노키트
+[2019-08-31 21:55:51,225:_make_log- 19@type2] //entry
+[2019-08-31 21:55:51,225:service.requestHandler- 47@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:55:51,225:service.requestHandler- 48@_make_log] full path:D:\내사진\Album 2019\190114-아두이노키트
+[2019-08-31 21:55:51,225:service.requestHandler- 49@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 21:56:37,543:_initialize- 19@type2] //entry
+[2019-08-31 21:56:37,543:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-08-31 21:56:37,544:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-08-31 21:56:37,551:_make_log- 19@type2] //entry
+[2019-08-31 21:56:37,551:service.requestHandler- 47@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 21:56:37,552:service.requestHandler- 48@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 21:56:37,552:service.requestHandler- 49@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 22:06:15,812:_initialize- 19@type2] //entry
+[2019-08-31 22:06:15,812:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-08-31 22:06:15,812:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-08-31 22:06:15,813:_make_log- 19@type2] //entry
+[2019-08-31 22:06:15,813:service.requestHandler- 47@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 22:06:15,813:service.requestHandler- 48@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 22:06:15,813:service.requestHandler- 49@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 22:08:23,147:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-08-31 22:08:23,148:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-08-31 22:08:38,474:service.FileInfoService- 18@__init__] 워크캐쉬: {}
+[2019-08-31 22:08:38,475:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
+[2019-08-31 22:08:38,481:_initialize- 20@type2] //entry
+[2019-08-31 22:08:38,482:service.requestHandler- 48@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
+[2019-08-31 22:08:38,482:service.requestHandler- 49@_make_log] full path:D:\내사진\Album 2019\190112-우에노
+[2019-08-31 22:08:38,482:service.requestHandler- 50@_make_log] options:{'reqFileHandling': True}
+[2019-08-31 22:08:38,483:_make_log- 20@type2] //entry
