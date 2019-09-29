@@ -21,7 +21,7 @@
         <div id="left">
             <div id="function_menu">
                 <h2>분류메뉴</h2>
-                <select>
+                <select v-model="category" id="category_selector">
                     <option v-for="category in categories" v-bind:value="category">{{category}}</option>
                 </select>
             </div>
@@ -32,13 +32,46 @@
             </div>
         </div>
         <div id="right">
-            <div v-for="article in articles" class="article_list">
-                <ul class="article">
-                    <li><div>{{article.word}}</div><div>{{article.meaning}}</div><button v-on:click="modify_article_word(article)">수정</button></li>
-                    <li><div v-for="example in article.examples" class="example">{{example}}<button>수정</button></div><button>추가</button></li>
-                    <li><div><span v-for="keyword in article.keywords">{{[keyword]}}</span></div><button>수정</button></li>
+            <button @click="addTemplate">추가</button>
+            <button @click="updateAll">갱신</button>
+
+            <form name="form" v-for="article in cached" class="article_list">
+                <div><button @click="click_02(article, $event)">×</button></div>
+                <div @change = "change_01(article, $event)">
+                    <select name="category">
+                        <option v-for="category in categories" :value="category" :selected="category==article.category?'selected':''">{{category}}</option>
+                    </select>
+                    <div><input type="text" name="word" :value="article.word"></div>
+                    <div><input type="text" name="meaning" :value="article.meaning"></div>
+                    <!-- <button v-on:click="modify_article_word(article,$event)">확정</button> -->
+                </div>
+
+                <ul class="article" @change="change_02(article, $event)" @click="click_01(article, $event)">
+                    <li v-if="article.examples.length==0">
+                        <input type="text" name="examples" value="" data-index=0/>
+                    </li>
+                    <!-- <li-tag v-else :article="article" attr="examples">
+                    </li-tag> -->
+                    <li v-else v-for="(example,index) in article.examples" :class="getClass(article, 'examples', index)" :data-index="index">
+                        <input type="text" name="examples" :value="example" :disabled="isDisabled(article, 'examples', index)"/>
+                        <button name="examples.del" type="button" :disabled="isDisabled(article, 'examples', index)">×</button>
+                    </li>
+                    <!-- <button @click="doConfirm(article, $event)">확정</button> -->
+                    <button name="add" @click="add($event)">Add</button>
                 </ul>
-            </div>
+                <ul class="article" @change="change_02(article,$event)" @click="click_01(article, $event)">
+                   <li v-if="article.keywords.length==0">
+                       <input type="text" name="keywords" value="">
+                   </li>
+                   <li v-else v-for="(keyword, index) in article.keywords" :class="getClass(article, 'keywords', index)" :data-index="index">
+                       <input type="text" name="keywords" :value="keyword" :disabled="isDisabled(article, 'keywords', index)"/>
+                       <button name="keywords.del" type="button" :disabled="isDisabled(article, 'keywords', index)">×</button>
+                   </li>
+                   <!-- <button @click="doConfirm(article, $event)">확정</button> -->
+                   <button name="add" @click="add($event)">Add</button>
+                </ul>
+            </form>
+            <component v-for="templ in word_templates" :is="templ" :categories="categories"></component>            
         </div>
     </div>
 </body>

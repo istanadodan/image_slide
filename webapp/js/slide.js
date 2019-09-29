@@ -133,6 +133,9 @@ function init() {
                 }
             },
             methods:{
+                goHome:function(){
+                    location.href="/";
+                },
                 selectBook:function(){
                     this.getAlbums();
                 },

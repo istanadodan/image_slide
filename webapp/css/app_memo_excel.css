@@ -5,16 +5,15 @@
 #app {
     min-width: 400px;
     margin: 0 auto;
-    background: #058;
+    background:chartreuse;
 }
 
 div {
-    border:0px solid black;
+    border:1px solid black;
 }
 #top {
-    height:25px;
     text-align: right;
-    margin-right: 30px;
+    padding-right: 30px;
 }
 
 #left {
@@ -40,8 +39,8 @@ div {
     float:right; 
     width:80%;
 }
+
 .article_list {
-    display: flex;
     border: 1px solid green;
 }
 .article {
@@ -56,4 +55,11 @@ li div:nth-child(1) {
 }
 li div.example {
     width:350px;
+}
+li.deleted * {
+    background-Color:rgb(151, 150, 143);
+}
+#category_selector {
+    margin-left:10px;
+    width:185px;
 }

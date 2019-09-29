@@ -11,7 +11,7 @@ class FileInfo:
     # 설정파일명을 담는다
     json_filename = ''
 
-    def __init__(self,path):
+    def __init__(self, path):
         self.d = {'moduleName':__name__}
         self.path = path;
         self.album_name = path.split('\\')[-1]
@@ -168,6 +168,9 @@ class FileInfo:
         for src_el in element:
             for ix, el in enumerate(self.workcache):
                 if el[KEY] == src_el[KEY]:
+                    full_path = os.path.join(self.path, el['filename'])
+                    if os.path.exists(full_path):
+                        os.remove(full_path)
                     del self.workcache[ix]
                     _logger.debug("삭제 {}".format(src_el),extra=self.d)
                     break
@@ -197,7 +200,9 @@ class InfoElement:
 
     def get_data(self):
         new_element = dict()
-        for key in self.keys:
+        # 함수타입을 제외한 속성값을 대상으로 함
+        for key in (key for key in InfoElement.__dict__.keys() if not key.startswith('_') and not callable(InfoElement.__dict__[key])):
+            _logger.debug("key: ",key)
             new_element[key] = getattr(self,key)
         return new_element
 

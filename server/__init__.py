@@ -16,7 +16,7 @@ def get_logger(root_path):
     #logger설정, DEBUG레벨 이상을 출력한다. 즉 모두 레벨로그를 출력한다.
     # 레벨: DEBUG < INFO < WARNING < ERROR <CRITICAL
     # logging.basicConfig(level="DEBUG", format="%(asctime)s %(levelname)s %(message)s")    
-    file_path = os.path.join( root_path , "logging.config")
+    file_path = os.path.join( os.path.dirname(__file__) , "logging.config")
 
     with open(file_path, "rt", encoding="utf-8") as f:
         config = json.load(f)

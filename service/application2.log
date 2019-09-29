@@ -1,52 +1,151 @@
-[2019-09-01 08:47:52,827:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 08:47:52,830:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 08:47:52,839:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 08:47:52,840:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 08:47:52,840:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 08:51:41,030:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 08:51:41,031:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 08:51:41,039:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 08:51:41,039:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 08:51:41,039:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 08:56:09,763:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 08:56:09,764:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 08:56:09,771:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 08:56:09,772:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 08:56:09,772:service.requestHandler- 60@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 08:58:35,099:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 08:58:35,100:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 08:58:35,107:service.requestHandler- 59@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 08:58:35,108:service.requestHandler- 60@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 08:58:35,108:service.requestHandler- 61@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 08:59:20,573:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 08:59:20,574:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 08:59:20,583:service.requestHandler- 59@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 08:59:20,583:service.requestHandler- 60@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 08:59:20,583:service.requestHandler- 61@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 09:00:47,487:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 09:00:47,488:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 09:01:33,916:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 09:01:33,917:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 09:01:33,924:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/album' [POST]>
-[2019-09-01 09:01:33,924:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 09:01:33,925:service.requestHandler- 62@_make_log] options:{'reqFileHandling': True}
-[2019-09-01 09:02:31,780:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 09:02:31,780:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 09:02:31,780:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
-[2019-09-01 09:02:31,780:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 09:02:31,780:service.requestHandler- 62@_make_log] options:{'arg': 'option'}
-[2019-09-01 09:02:32,180:append- 16@logging] [반환]append
-[2019-09-01 09:02:32,180:service.requestHandler-109@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
-[2019-09-01 09:04:58,719:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 09:04:58,719:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 09:04:58,737:service.requestHandler- 60@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
-[2019-09-01 09:04:58,737:service.requestHandler- 61@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 09:04:58,737:service.requestHandler- 62@_make_log] options:{'arg': 'option'}
-[2019-09-01 09:04:59,119:service.requestHandler-109@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
-[2019-09-01 09:06:46,481:service.FileInfoService- 18@__init__] 워크캐쉬: {}
-[2019-09-01 09:06:46,481:service.FileInfoService- 19@__init__] 패스:D:\내사진\Album 2019\190112-우에노,앨범명:190112-우에노
-[2019-09-01 09:06:46,481:service.requestHandler- 58@_make_log] request:<Request 'http://127.0.0.1:5000/image/edit_f02' [POST]>
-[2019-09-01 09:06:46,481:service.requestHandler- 59@_make_log] full path:D:\내사진\Album 2019\190112-우에노
-[2019-09-01 09:06:46,481:service.requestHandler- 60@_make_log] options:{'arg': 'option'}
-[2019-09-01 09:06:46,884:service.requestHandler-107@append] data append: [{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
-[2019-09-01 09:06:46,884:append- 12@logging] [인수][{'HQ': True, 'KO': False, 'KW': [], 'ME': False, 'album': '190112-우에노', 'filename': 'IMG_20190113_120521_rotate_quality.jpg', 'memo': '', 'place': '', 'quality': 100}]
+[2019-09-08 14:13:58,689:saveToExcel  23@getAllData] Excel data: []
+[2019-09-08 14:28:56,533:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:28:56,533:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:28:56,534:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:28:56,535:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:28:56,535:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:28:56,536:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:28:56,536:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:30:37,924:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:30:37,925:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:30:37,926:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:30:37,926:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:30:37,928:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:30:37,928:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:30:37,929:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:31:36,725:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:31:36,726:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:31:36,727:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:31:36,727:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:31:36,728:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:31:36,729:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:31:36,729:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:31:43,572:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:31:43,573:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:31:43,574:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:31:43,575:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:31:43,576:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:31:43,577:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:31:43,577:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:31:49,937:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:31:49,938:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:31:49,939:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:31:49,939:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:31:49,940:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:31:49,941:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:31:49,941:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:31:52,135:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:31:52,135:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:31:52,136:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:31:52,137:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:31:52,138:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:31:52,138:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:31:52,139:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:32:54,245:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:32:54,246:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:32:54,246:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:32:54,247:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:32:54,248:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:32:54,249:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:32:54,252:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}]
+[2019-09-08 14:33:11,062:saveToExcel  18@getAllData] 1.test,테스트
+[2019-09-08 14:33:11,063:saveToExcel  33@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:33:11,064:saveToExcel  41@getData] 3.['테스트', '시험']
+[2019-09-08 14:33:11,065:saveToExcel  18@getAllData] 1.test2,테스트2
+[2019-09-08 14:33:11,066:saveToExcel  33@getData] 2.['시험보다']
+[2019-09-08 14:33:11,066:saveToExcel  41@getData] 3.['시험']
+[2019-09-08 14:33:11,067:saveToExcel  18@getAllData] 1.hello,안녕
+[2019-09-08 14:33:11,067:saveToExcel  33@getData] 2.['안녕하세요']
+[2019-09-08 14:33:11,068:saveToExcel  41@getData] 3.['안녕']
+[2019-09-08 14:33:11,069:saveToExcel  24@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:47:47,224:saveToExcel  21@getAllData] 1.test,테스트
+[2019-09-08 14:48:14,864:saveToExcel  21@getAllData] 1.test,테스트
+[2019-09-08 14:48:14,865:saveToExcel  40@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:48:14,866:saveToExcel  48@getData] 3.['테스트', '시험']
+[2019-09-08 14:48:14,867:saveToExcel  21@getAllData] 1.test2,테스트2
+[2019-09-08 14:48:14,867:saveToExcel  40@getData] 2.['시험보다']
+[2019-09-08 14:48:14,868:saveToExcel  48@getData] 3.['시험']
+[2019-09-08 14:48:14,868:saveToExcel  21@getAllData] 1.hello,안녕
+[2019-09-08 14:48:14,875:saveToExcel  40@getData] 2.['안녕하세요']
+[2019-09-08 14:48:14,880:saveToExcel  48@getData] 3.['안녕']
+[2019-09-08 14:48:14,881:saveToExcel  27@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:50:01,449:saveToExcel  21@getAllData] 1.test,테스트
+[2019-09-08 14:50:01,450:saveToExcel  40@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:50:01,450:saveToExcel  48@getData] 3.['테스트', '시험']
+[2019-09-08 14:50:01,451:saveToExcel  21@getAllData] 1.test2,테스트2
+[2019-09-08 14:50:01,452:saveToExcel  40@getData] 2.['시험보다']
+[2019-09-08 14:50:01,454:saveToExcel  48@getData] 3.['시험']
+[2019-09-08 14:50:01,455:saveToExcel  21@getAllData] 1.hello,안녕
+[2019-09-08 14:50:01,456:saveToExcel  40@getData] 2.['안녕하세요']
+[2019-09-08 14:50:01,457:saveToExcel  48@getData] 3.['안녕']
+[2019-09-08 14:50:01,457:saveToExcel  27@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:50:41,909:saveToExcel  21@getAllData] 1.test,테스트
+[2019-09-08 14:50:41,910:saveToExcel  40@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:50:41,910:saveToExcel  48@getData] 3.['테스트', '시험']
+[2019-09-08 14:50:41,911:saveToExcel  21@getAllData] 1.test2,테스트2
+[2019-09-08 14:50:41,911:saveToExcel  40@getData] 2.['시험보다']
+[2019-09-08 14:50:41,912:saveToExcel  48@getData] 3.['시험']
+[2019-09-08 14:50:41,913:saveToExcel  21@getAllData] 1.hello,안녕
+[2019-09-08 14:50:41,913:saveToExcel  40@getData] 2.['안녕하세요']
+[2019-09-08 14:50:41,914:saveToExcel  48@getData] 3.['안녕']
+[2019-09-08 14:50:41,914:saveToExcel  27@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:51:28,769:saveToExcel  21@getAllData] 1.test,테스트
+[2019-09-08 14:51:28,770:saveToExcel  40@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:51:28,771:saveToExcel  48@getData] 3.['테스트', '시험']
+[2019-09-08 14:51:28,771:saveToExcel  21@getAllData] 1.test2,테스트2
+[2019-09-08 14:51:28,772:saveToExcel  40@getData] 2.['시험보다']
+[2019-09-08 14:51:28,773:saveToExcel  48@getData] 3.['시험']
+[2019-09-08 14:51:28,773:saveToExcel  21@getAllData] 1.hello,안녕
+[2019-09-08 14:51:28,783:saveToExcel  40@getData] 2.['안녕하세요']
+[2019-09-08 14:51:28,784:saveToExcel  48@getData] 3.['안녕']
+[2019-09-08 14:51:28,785:saveToExcel  27@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:54:20,019:saveToExcel  22@getAllData] 1.test,테스트
+[2019-09-08 14:54:20,020:saveToExcel  39@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:54:20,021:saveToExcel  47@getData] 3.['테스트', '시험']
+[2019-09-08 14:54:20,022:saveToExcel  22@getAllData] 1.test2,테스트2
+[2019-09-08 14:54:20,023:saveToExcel  39@getData] 2.['시험보다']
+[2019-09-08 14:54:20,025:saveToExcel  47@getData] 3.['시험']
+[2019-09-08 14:54:20,025:saveToExcel  22@getAllData] 1.hello,안녕
+[2019-09-08 14:54:20,026:saveToExcel  39@getData] 2.['안녕하세요']
+[2019-09-08 14:54:20,027:saveToExcel  47@getData] 3.['안녕']
+[2019-09-08 14:54:20,028:saveToExcel  28@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요']}]
+[2019-09-08 14:54:46,046:saveToExcel  22@getAllData] 1.test,테스트
+[2019-09-08 14:54:46,047:saveToExcel  39@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:54:46,048:saveToExcel  47@getData] 3.['테스트', '시험']
+[2019-09-08 14:54:46,049:saveToExcel  22@getAllData] 1.test2,테스트2
+[2019-09-08 14:54:46,049:saveToExcel  39@getData] 2.['시험보다']
+[2019-09-08 14:54:46,050:saveToExcel  47@getData] 3.['시험']
+[2019-09-08 14:54:46,051:saveToExcel  22@getAllData] 1.hello,안녕
+[2019-09-08 14:54:46,052:saveToExcel  39@getData] 2.['안녕하세요2']
+[2019-09-08 14:54:46,053:saveToExcel  47@getData] 3.['안녕2']
+[2019-09-08 14:54:46,054:saveToExcel  28@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요2']}]
+[2019-09-08 14:55:22,547:saveToExcel  22@getAllData] 1.test,테스트
+[2019-09-08 14:55:22,548:saveToExcel  39@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:55:22,549:saveToExcel  47@getData] 3.['테스트', '시험']
+[2019-09-08 14:55:22,550:saveToExcel  22@getAllData] 1.test2,테스트2
+[2019-09-08 14:55:22,550:saveToExcel  39@getData] 2.['시험보다']
+[2019-09-08 14:55:22,551:saveToExcel  47@getData] 3.['시험']
+[2019-09-08 14:55:22,552:saveToExcel  22@getAllData] 1.hello,안녕
+[2019-09-08 14:55:22,552:saveToExcel  39@getData] 2.['안녕하세요2']
+[2019-09-08 14:55:22,553:saveToExcel  47@getData] 3.['안녕zz']
+[2019-09-08 14:55:22,554:saveToExcel  28@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요2']}]
+[2019-09-08 14:55:24,452:saveToExcel  22@getAllData] 1.test,테스트
+[2019-09-08 14:55:24,453:saveToExcel  39@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:55:24,453:saveToExcel  47@getData] 3.['테스트', '시험']
+[2019-09-08 14:55:24,454:saveToExcel  22@getAllData] 1.test2,테스트2
+[2019-09-08 14:55:24,455:saveToExcel  39@getData] 2.['시험보다']
+[2019-09-08 14:55:24,455:saveToExcel  47@getData] 3.['시험']
+[2019-09-08 14:55:24,456:saveToExcel  22@getAllData] 1.hello,안녕
+[2019-09-08 14:55:24,457:saveToExcel  39@getData] 2.['안녕하세요2']
+[2019-09-08 14:55:24,458:saveToExcel  47@getData] 3.['안녕zz']
+[2019-09-08 14:55:24,458:saveToExcel  28@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요2']}]
+[2019-09-08 14:56:18,898:saveToExcel  22@getAllData] 1.test,테스트
+[2019-09-08 14:56:18,899:saveToExcel  39@getData] 2.['테스트하다', '시험보다']
+[2019-09-08 14:56:18,900:saveToExcel  47@getData] 3.['테스트', '시험']
+[2019-09-08 14:56:18,900:saveToExcel  22@getAllData] 1.test2,테스트2
+[2019-09-08 14:56:18,901:saveToExcel  39@getData] 2.['시험보다']
+[2019-09-08 14:56:18,901:saveToExcel  47@getData] 3.['시험']
+[2019-09-08 14:56:18,902:saveToExcel  22@getAllData] 1.hello,안녕
+[2019-09-08 14:56:18,902:saveToExcel  39@getData] 2.['안녕하세요2']
+[2019-09-08 14:56:18,903:saveToExcel  47@getData] 3.['안녕zz']
+[2019-09-08 14:56:18,903:saveToExcel  28@getAllData] Excel data: [{'word': 'test', 'meaning': '테스트', 'examples': ['테스트하다', '시험보다'], 'keywords': ['테스트', '시험']}, {'word': 'test2', 'meaning': '테스트2', 'examples': ['시험보다'], 'keywords': ['시험']}, {'word': 'hello', 'meaning': '안녕', 'examples': ['안녕하세요2'], 'keywords': ['안녕zz']}]

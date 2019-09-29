@@ -9,17 +9,82 @@ frd_dir =svr.face_recog_data_path
 # 로그설정파일을 서버기동폴더에 위치
 mylog = svr.get_logger(app.root_path).getLogger(__name__)
 
+@app.route("/")
+def index():
+    return send_from_directory('webapp/html','index.html')
+    
 @app.route('/memo')
 def main():
     mylog.info("Memo main activated")
     return send_from_directory('webapp/html','app_memo_excel.html')
+
+@app.route('/memo/articles',methods=['GET'])
+def memo_articles():
+    memo = sl.Memo()
+    data = memo.getAllData()
+    cat = memo.getCategory()
+    # 사용한 ws를 클리어해서 데이터갱신이 되도록 한다.
+    memo.clear()
+    ret = {'cat':cat, 'data':data}
+    return jsonify(ret)
+    
+@app.route('/memo/add',methods=['POST'])
+def memo_add():
+
+    data = request.form;
+    mylog.debug("form data:{}".format(data))
+    word = data.getlist('word')[0]
+    meaning =data.getlist('meaning')[0]
+    category = data.getlist('category')[0]
+
+    main = [category, word, meaning] 
+    examples = data.getlist('examples')
+    keywords = data.getlist('keywords')
+
+    memo = sl.Memo()
+    memo.add({'main':main,'examples':examples,'keywords':keywords})
+    memo.clear()
+
+    mylog.debug("data:%s"%data);
+    
+    return redirect(url_for('main'))
+
+@app.route('/memo/updateAll', methods=['POST'])
+def updateAll():
+    import json
+    # data=>{add:[{index:10,examples:['a','b'],keywords:['c'],{}],
+    #  mod:[{index:10,category:'word1',examples:{index:[2],data:['10']}},{}]}    
+    # main시트는 추가는 없으며, examples와 keywords에는 추가가 있을수있다
+    data = json.loads(request.data)
+    mylog.debug(data)
+
+    memo = sl.Memo()
+    memo.removeElement(data['del'])
+    memo.addElement(data['add'])
+    memo.updateElement(data['mod'])
+    memo.clear()
+
+    return redirect(url_for('memo_articles'))
+
+@app.route('/memo/removeArticle', methods=['POST'])
+def removeArticle():
+    import json
+    # data=>{index:1}
+    data = json.loads(request.data)
+    mylog.debug(data)
+
+    memo = sl.Memo()
+    memo.remove(data)
+    memo.clear()
+
+    return redirect(url_for('memo_articles'))
 
 @app.route('/slide')
 def main_slide():
     mylog.info("Slide main activated")
     # return send_from_directory('webapp/html','todo.html')
     # return render_template('album-page.html')
-    return send_from_directory('webapp/html','index.html')
+    return send_from_directory('webapp/html','slide_home.html')
 
 @app.route('/album', methods=['GET'])
 def getFolders():
