@@ -62,6 +62,7 @@ def updateAll():
     memo.removeElement(data['del'])
     memo.addElement(data['add'])
     memo.updateElement(data['mod'])
+    memo.add(data['new_'])
     memo.clear()
 
     return redirect(url_for('memo_articles'))

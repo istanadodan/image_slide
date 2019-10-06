@@ -32,7 +32,7 @@
             </div>
         </div>
         <div id="right">
-            <button @click="addTemplate">추가</button>
+            <button @click="add">추가</button>
             <button @click="updateAll">갱신</button>
 
             <form name="form" v-for="article in cached" class="article_list">
@@ -43,35 +43,30 @@
                     </select>
                     <div><input type="text" name="word" :value="article.word"></div>
                     <div><input type="text" name="meaning" :value="article.meaning"></div>
-                    <!-- <button v-on:click="modify_article_word(article,$event)">확정</button> -->
                 </div>
 
                 <ul class="article" @change="change_02(article, $event)" @click="click_01(article, $event)">
                     <li v-if="article.examples.length==0">
                         <input type="text" name="examples" value="" data-index=0/>
                     </li>
-                    <!-- <li-tag v-else :article="article" attr="examples">
-                    </li-tag> -->
-                    <li v-else v-for="(example,index) in article.examples" :class="getClass(article, 'examples', index)" :data-index="index">
-                        <input type="text" name="examples" :value="example" :disabled="isDisabled(article, 'examples', index)"/>
-                        <button name="examples.del" type="button" :disabled="isDisabled(article, 'examples', index)">×</button>
+                    <li v-else v-for="(item,index) in article.examples" :class="item.isDisabled?'deleted':'examples'" :data-index="index">
+                        <input type="text" name="examples" :value="item.value"  :disabled="item.isDisabled"/>
+                        <button name="examples.del" type="button">×</button>
                     </li>
-                    <!-- <button @click="doConfirm(article, $event)">확정</button> -->
-                    <button name="add" @click="add($event)">Add</button>
+                    <button name="addItem" @click="addItem(article,'examples',$event)">Add</button>
                 </ul>
                 <ul class="article" @change="change_02(article,$event)" @click="click_01(article, $event)">
                    <li v-if="article.keywords.length==0">
                        <input type="text" name="keywords" value="">
                    </li>
-                   <li v-else v-for="(keyword, index) in article.keywords" :class="getClass(article, 'keywords', index)" :data-index="index">
-                       <input type="text" name="keywords" :value="keyword" :disabled="isDisabled(article, 'keywords', index)"/>
-                       <button name="keywords.del" type="button" :disabled="isDisabled(article, 'keywords', index)">×</button>
+                   <li v-else v-for="(item, index) in article.keywords" :class="item.isDisabled?'deleted':'keywords'" :data-index="index">
+                       <input type="text" name="keywords" :value="item.value"  :disabled="item.isDisabled"/>
+                       <button name="keywords.del" type="button">×</button>
                    </li>
-                   <!-- <button @click="doConfirm(article, $event)">확정</button> -->
-                   <button name="add" @click="add($event)">Add</button>
+                   <button name="addItem" @click="addItem(article,'keywords',$event)">Add</button>
                 </ul>
             </form>
-            <component v-for="templ in word_templates" :is="templ" :categories="categories"></component>            
+            <component v-for="templ in word_templates" :is="templ" :categories="categories"></component>
         </div>
     </div>
 </body>

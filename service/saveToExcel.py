@@ -73,7 +73,10 @@ class Memo:
 
         self.wb.save(path)
 
-    def add(self, data):
+    def add(self, list_data):
+        if not list_data:
+            return
+        data = list_data[0]
         # index 지정
         ws = self.wb.get_sheet_by_name('main')
         self.key_index = ws.cell(row=ws.max_row, column=1).value +1
